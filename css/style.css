@@ -1,0 +1,31 @@
+footer > ul {
+    display: flex;
+    justify-content: flex-end;
+}
+  
+footer > ul > li {
+    padding: 0 10px;
+}
+
+footer > span {
+    margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    font-size: 0.9em;
+    color: #444;
+}
+
+.navbar {
+    background-color: #49E353;
+    color: #FFEB52;
+}
+
+.input-group btn-1 {
+    background-color: #8157C9;
+}
+
+.site-footer {
+    background-color: #BF3B38;
+    color: #FFEB52;
+} 
